@@ -1,6 +1,7 @@
 ## Hi there 👋
-
-<!--
+<iframe width="100%" height="500" frameborder="0"
+  src="https://observablehq.com/embed/@e-m-greeff-ws/plot-normal-histogram?cell=*"></iframe>
+  <!--
 
 **Here are some ideas to get you started:**
 
